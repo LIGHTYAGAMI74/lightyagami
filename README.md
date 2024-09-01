@@ -24,19 +24,9 @@
     <br>
     <table>
         <caption>ANIME INFO</caption>
-        <th>
-            <tr>
-                <td>name of the anime</td>
-                <td>name of the author </td>
-                <td>list of episodes</td>
-            </tr>
-            <tr>
-                <td>Naruto</td>
-                <td>Sir Moni singh yadav</td>
-                <td>720</td>
-            </tr>
-        </th>
-    </table>
+        
+    
+      
     <ul>
         <li>LOVELY VIBES</li>
         <li> ANIME FANPAGE</li>
@@ -61,7 +51,6 @@
         <video src="「+One+kiss😘」Lycoris+Recoil+[AMV_EDIT].mp4 " height="350" width="350" controls
             poster="download.jfif"></video>
             <br>
-        <video src="[AMV] 5 Toubun no Hanayome - Shape Of You.mp4" height="350" width="350" controls></video>
         <div>
             
         </div>
