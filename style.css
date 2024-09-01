@@ -1,0 +1,13 @@
+body{
+  background-image: url(anime-moon-landscape.jpg) ;
+  background-size: cover;  
+  color: hotpink;
+    
+    
+}
+table,tr,td{
+    color: aqua;
+    border: 2px solid yellow; 
+}video{
+  border: palevioletred;
+}
