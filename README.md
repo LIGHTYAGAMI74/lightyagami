@@ -22,8 +22,7 @@
 
     </div>
     <br>
-    <table>
-        <caption>ANIME INFO</caption>
+    
         
     
       
